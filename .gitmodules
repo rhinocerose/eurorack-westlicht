@@ -1,0 +1,12 @@
+[submodule "eurorack-westlicht-midibox-seq-v4"]
+	path = eurorack-westlicht-midibox-seq-v4
+	url = git@git-rhino:rhinocerose/eurorack-westlicht-midibox-seq-v4
+[submodule "eurorack-westlicht-performer"]
+	path = eurorack-westlicht-performer
+	url = git@git-rhino:rhinocerose/eurorack-westlicht-performer
+[submodule "eurorack-westlicht-performer-hardware"]
+	path = eurorack-westlicht-performer-hardware
+	url = git@git-rhino:rhinocerose/eurorack-westlicht-performer-hardware
+[submodule "eurorack-westlicht-case"]
+	path = eurorack-westlicht-case
+	url = git@git-rhino:rhinocerose/eurorack-westlicht-case
