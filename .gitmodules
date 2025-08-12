@@ -1,0 +1,16 @@
+[submodule "eurorack-westlicht-case"]
+	path = eurorack-westlicht-case
+	url = git@git-rhino:rhinocerose/eurorack-westlicht-case
+	branch = main
+[submodule "eurorack-westlicht-performer-firmware"]
+	path = eurorack-westlicht-performer-firmware
+	url = git@git-rhino:rhinocerose/eurorack-westlicht-performer-firmware
+	branch = main
+[submodule "eurorack-westlicht-performer-hardware"]
+	path = eurorack-westlicht-performer-hardware
+	url = git@git-rhino:rhinocerose/eurorack-westlicht-performer-hardware
+	branch = main
+[submodule "eurorack-westlicht-performer-standalone"]
+	path = eurorack-westlicht-performer-standalone
+	url = git@git-rhino:rhinocerose/eurorack-westlicht-performer-standalone
+	branch = main
