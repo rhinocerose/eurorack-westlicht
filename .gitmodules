@@ -14,3 +14,7 @@
 	path = eurorack-westlicht-performer-standalone
 	url = git@git-rhino:rhinocerose/eurorack-westlicht-performer-standalone
 	branch = main
+[submodule "synth-westlicht-midibox-seq-v4-build"]
+	path = synth-westlicht-midibox-seq-v4-build
+	url = git@git-rhino:rhinocerose/synth-westlicht-midibox-seq-v4-build
+	branch = main
